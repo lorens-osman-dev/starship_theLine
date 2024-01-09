@@ -34,7 +34,8 @@ After the installation finishes, check if it has been installed correctly by che
 zsh --version
 ```
 
-![[line/assets/Pasted image 20240108084134.png]]
+![Pasted image 20240108084134.png](assets/Pasted%20image%2020240108084134.png)
+
 The output shows the current version installed on the system.
 ## Configure Zsh on Ubuntu
 
@@ -51,7 +52,8 @@ zsh
 
 The following screenshot shows the configuration options that Zsh offers on the first startup:
 
-![[line/assets/Pasted image 20240108084545.png]]
+![clusterSvg](assets/Pasted%20image%2020240108084545.png)
+
 - Press **1** to go to the main menu and configure each setting individually.
 - Press **2** to populate the _.zshrc_ configuration file with the default parameters, which you can later change manually in the _.zshrc_ file.
 - Press **0** to create an empty _.zshrc_ configuration file and configure everything from scratch.
