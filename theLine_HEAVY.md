@@ -131,12 +131,12 @@ format = "[$symbol$branch(:$remote_branch) ]($style)"
 ### 🖼️ Screenshots
 
 
-![[line/assets/heavy/Screenshot from 2024-01-09 16-06-14.png]]
+![creenshot from 2024-01-09 16-06-14.png](assets/heavy/Screenshot%20from%202024-01-09%2016-06-14.png)
 
-![[line/assets/heavy/Screenshot from 2024-01-09 16-06-26.png]]
+![Screenshot from 2024-01-09 16-06-26.png](assets/heavy/Screenshot%20from%202024-01-09%2016-06-26.png)
 
-![[line/assets/heavy/Screenshot from 2024-01-09 16-05-54.png]]
+![Screenshot from 2024-01-09 16-05-54.png](assets/heavy/Screenshot%20from%202024-01-09%2016-05-54.png)
 
-![[line/assets/heavy/Screenshot from 2024-01-09 16-06-48.png]]
+![Screenshot from 2024-01-09 16-06-48.png](assets/heavy/Screenshot%20from%202024-01-09%2016-06-48.png)
 
-![[line/assets/heavy/Screenshot from 2024-01-09 16-07-01.png]]
+![Screenshot from 2024-01-09 16-07-01.png](assets/heavy/Screenshot%20from%202024-01-09%2016-07-01.png)
