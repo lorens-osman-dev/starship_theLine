@@ -142,12 +142,12 @@ format = '[ $state($progress_current/$progress_total) ]($style)'
 7. Enjoy!
 ### 🖼️ Screenshots
 
-![[line/assets/dashed/Screenshot from 2024-01-09 16-04-38.png]]
+![Screenshot from 2024-01-09 16-04-38.png](assets/dashed/Screenshot%20from%202024-01-09%2016-04-38.png)
 
-![[line/assets/dashed/Screenshot from 2024-01-09 16-04-48.png]]
+![Screenshot from 2024-01-09 16-04-38.png](assets/dashed/Screenshot%20from%202024-01-09%2016-04-48.png)
 
-![[line/assets/dashed/Screenshot from 2024-01-09 16-05-07.png]]
+![Screenshot from 2024-01-09 16-04-38.png](assets/dashed/Screenshot%20from%202024-01-09%2016-05-07.png)
 
-![[line/assets/dashed/Screenshot from 2024-01-09 16-04-16.png]]
+![Screenshot from 2024-01-09 16-04-38.png](assets/dashed/Screenshot%20from%202024-01-09%2016-04-16.png)
 
-![[line/assets/dashed/Screenshot from 2024-01-09 16-03-45.png]]
+![Screenshot from 2024-01-09 16-04-38.png](assets/dashed/Screenshot%20from%202024-01-09%2016-03-45.png)
