@@ -1,4 +1,4 @@
-![[line/assets/theLineCover.jpg]]
+![theLineCover](assets/theLineCover.jpg)
 
 # Starship_theLine is a neat theme designed for [Starship](https://starship.rs/) prompt.
 
@@ -125,22 +125,22 @@ format = "[ $symbol$branch(:$remote_branch) ]($style)"
 ### 🖼️ Screenshots
 
 
-![[line/assets/theLine/Screenshot from 2024-01-09 15-57-26.png]]
+![Screenshot from 2024-01-09 15-57-26.png](assets/theLine/Screenshot%20from%202024-01-09%2015-57-26.png)
 
-![[line/assets/theLine/Screenshot from 2024-01-09 15-58-44.png]]
+![Screenshot from 2024-01-09 15-58-44.png](assets/theLine/Screenshot%20from%202024-01-09%2015-58-44.png)
 
-![[line/assets/theLine/Screenshot from 2024-01-09 15-57-41.png]]
+![Screenshot from 2024-01-09 15-57-41.png](assets/theLine/Screenshot%20from%202024-01-09%2015-57-41.png)
 
-![[line/assets/theLine/Screenshot from 2024-01-09 15-56-43.png]]
+![Screenshot from 2024-01-09 15-56-43.png](assets/theLine/Screenshot%20from%202024-01-09%2015-56-43.png)
 
-![[line/assets/theLine/Screenshot from 2024-01-09 15-56-21.png]]
+![creenshot from 2024-01-09 15-56-21.png](assets/theLine/Screenshot%20from%202024-01-09%2015-56-21.png)
 ### 🤩🪄 Other flavors
 
-- [theLine_CHIN]()
-- [theLine_HEAVY]()
-- [theLine_MINMAL]()
-- [theLine_DASHED]()
-- [theLine_2LINE]()
+- [theLine_CHIN](theLine_CHAIN.md)
+- [theLine_HEAVY](theLine_HEAVY.md)
+- [theLine_MINMAL](theLine_MINIMAL.md)
+- [theLine_DASHED](theLine_DASHED.md)
+- [theLine_2LINE](theLine_2LINE.md)
 
 
 
