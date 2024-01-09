@@ -85,8 +85,8 @@ format = '[ $state($progress_current/$progress_total) ]($style)'
 ### 🖼️ Screenshots
 
 
-![[line/assets/minimal/Screenshot from 2024-01-09 15-52-26.png]]
+![sss](assets/minimal/Screenshot%20from%202024-01-09%2015-52-26.png)
 
-![[line/assets/minimal/Screenshot from 2024-01-09 15-53-37.png]]
+![Screenshot from 2024-01-09 15-53-37.png](assets/minimal/Screenshot%20from%202024-01-09%2015-53-37.png)
 
-![[line/assets/minimal/Screenshot from 2024-01-09 15-50-27.png]]
+![creenshot from 2024-01-09 15-50-27.png](assets/minimal/Screenshot%20from%202024-01-09%2015-50-27.png)
