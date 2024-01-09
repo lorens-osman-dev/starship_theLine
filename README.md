@@ -1,6 +1,6 @@
 ![theLineCover](assets/theLineCover.jpg)
 
-# Starship_theLine is a neat theme designed for [Starship](https://starship.rs/) prompt.
+# Starship_theLine is a neat theme colection designed for [Starship](https://starship.rs/) prompt.
 
 
 ### 🧩 Prerequisites
@@ -10,8 +10,8 @@ Or  **[Fira Code Nerd Font Regular](https://github.com/ryanoasis/nerd-fonts/tree
 
 > [**Nerd Fonts**](https://github.com/ryanoasis/nerd-fonts/tree/master) is a project that patches developer targeted fonts with a high number of glyphs (icons), Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as Font Awesome, Devicons, Octicons, and others.
 
-2. **Black Box Terminal**: [[line/install Black Box|install and configure Black Box]]
-3. **Z Shell (ZSH)** : [[line/install ZSH|install zsh]]
+2. **Black Box Terminal**: [**install and configure Black Box**](install%20Black%20Box.md) 
+3. **Z Shell (ZSH)** : [**install zsh**](install%20ZSH.md) 
 4. [Starship](https://starship.rs/) prompt
 5. Configure starship_theLine theme
 ### ⚙️ Configure starship_theLine theme
