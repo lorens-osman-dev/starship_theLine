@@ -122,12 +122,12 @@ format = "[$symbol$branch(:$remote_branch)]($style)"
 7. Enjoy!
 ### 🖼️ Screenshots
 
-![[line/assets/2line/Screenshot from 2024-01-09 16-08-28.png]]
+![clusterSvg](assets/2line/Screenshot%20from%202024-01-09%2016-08-28.png)
 
-![[line/assets/2line/Screenshot from 2024-01-09 16-08-50.png]]
+![clusterSvg](assets/2line/Screenshot%20from%202024-01-09%2016-08-50.png)
 
-![[line/assets/2line/Screenshot from 2024-01-09 16-09-07.png]]
+![clusterSvg](assets/2line/Screenshot%20from%202024-01-09%2016-09-07.png)
 
-![[line/assets/2line/Screenshot from 2024-01-09 16-08-10.png]]
+![clusterSvg](assets/2line/Screenshot%20from%202024-01-09%2016-08-10.png)
 
-![[line/assets/2line/Screenshot from 2024-01-09 16-07-58.png]]
+![clusterSvg](assets/2line/Screenshot%20from%202024-01-09%2016-07-58.png)
