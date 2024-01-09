@@ -1,6 +1,8 @@
+![clusterSvg](assets/Pasted%20image%2020240108092908.png)
 
-![[line/assets/Pasted image 20240108092908.png]]
-# Black Box Terminal : An elegant and customizable terminal for GNOME
+# Black Box Terminal 
+
+##### An elegant and customizable terminal for GNOME
 ### install Black Box Terminal
 
 - **Flathub** [download from Flathub](https://flathub.org/apps/details/com.raggesilver.BlackBox)
@@ -20,12 +22,14 @@ flatpak install flathub com.raggesilver.BlackBox
 - Preferences > Terminal tab > Padding = 5
 - Preferences > Terminal tab > Opacity = 80
 - Preferences > Terminal tab > Working Directory = Home Directory
+
 If you like the terminal without header bar :
 - Preferences > General tab >  Show Header Bar ✖
 
 ### With Header Bar
 
-![[line/assets/theLine/Screenshot from 2024-01-09 15-58-44.png]]
+![clusterSvg](assets/theLine/Screenshot%20from%202024-01-09%2015-58-44.png)
+
 ### Without Header Bar
 
-![[line/assets/theLine/Screenshot from 2024-01-09 15-56-21.png]]
+![clusterSvg](assets/theLine/Screenshot%20from%202024-01-09%2015-56-21.png)
