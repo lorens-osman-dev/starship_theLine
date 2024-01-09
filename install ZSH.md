@@ -72,7 +72,7 @@ The output states the value of the **`$SHELL`** variable, which is the default
 echo $SHELL
 ```
 
-![Checking the default shell in Linux.](https://phoenixnap.com/kb/wp-content/uploads/2023/07/see-default-shell-in-linux.png)
+![clusterSvg](assets/w.png)
 
 
 2. Use the chsh (change shell) command to change the default login shell. The following syntax lets you change the default shell with **`chsh`**:
@@ -92,7 +92,7 @@ chsh -s $(which zsh)
 
 Enter the root password when prompted and press **Enter**.
 
-![Entering the root password for the Zsh path.](https://phoenixnap.com/kb/wp-content/uploads/2023/07/change-default-shell-in-linux.png)
+![clusterSvg](assets/e.png)
 
 The command changes the default shell to Zsh for the current user. To start using the Z Shell, log out of the terminal and log back in.
 
